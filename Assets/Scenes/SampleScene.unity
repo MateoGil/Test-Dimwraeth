@@ -821,6 +821,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Test_Particle_Projectiles_Fixed
       objectReference: {fileID: 0}
+    - target: {fileID: 4232322815945265324, guid: 7aaee9782d899254698e11cdd010dfc4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
